@@ -1,13 +1,13 @@
 {
   "id": "./",
-  "name": "Race · Conversor HTML a PDF",
-  "short_name": "Race PDF",
+  "name": "HTML to PDF · Conversor Race",
+  "short_name": "HTML to PDF",
   "description": "Convierte los resultados HTML de Race a PDF",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f6f7fb",
-  "theme_color": "#f6f7fb",
+  "theme_color": "#2c3e50",
   "icons": [
     {
       "src": "./icon-192.png",
