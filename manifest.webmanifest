@@ -1,6 +1,6 @@
 {
   "id": "./",
-  "name": "HTML to PDF · Conversor Race",
+  "name": "HTML to PDF",
   "short_name": "HTML to PDF",
   "description": "Convierte los resultados HTML de Race a PDF",
   "start_url": "./index.html",
