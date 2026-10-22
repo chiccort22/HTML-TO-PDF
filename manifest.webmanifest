@@ -2,7 +2,7 @@
   "id": "./",
   "name": "HTML to PDF",
   "short_name": "HTML to PDF",
-  "description": "Convierte los resultados HTML de Race a PDF",
+  "description": "Convierte tablas de archivos HTML a documentos PDF desde tu dispositivo",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
